@@ -1,0 +1,19 @@
+.settings-container {
+    width: 5%;
+    height: 90vh;
+    background-color: #F8F8F8;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+
+
+}
+
+.bubble {
+    width: 60%;
+    height: 6%;
+    margin: 25% 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
