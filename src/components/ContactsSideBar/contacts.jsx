@@ -1,6 +1,8 @@
 import React from "react";
 import './contacts.css';
 
+import UserContact from "../UserContact/userContact";
+
 function ContactsList() {
     return (
         <div className="contactsList-container">
@@ -9,12 +11,10 @@ function ContactsList() {
             </div>
 
             <div className="user-contact">
-                <div className="user-image">
-                    <img src="https://img.a.transfermarkt.technology/portrait/big/8198-1694609670.jpg?lm=1" alt="" />
-                    <div className="user-name">
-                        <h3>Bashar</h3>
-                    </div>
-                </div>
+                <UserContact />
+                <UserContact />
+                <UserContact />
+                <UserContact />
             </div>
         </div>
     )

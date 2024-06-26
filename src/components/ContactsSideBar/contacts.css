@@ -1,7 +1,11 @@
 .contactsList-container {
-    width: 30%;
-    height: 80vh;
-    background-color: red;
+    width: 25%;
+    height: 90vh;
+    font-family: "Source Serif 4", serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    cursor: pointer;
 }
 
 .constact-title {
@@ -10,28 +14,4 @@
     border: 1px solid black;
     display: flex;
     justify-content: center;
-}
-
-
-/** put it in another component*/
-
-.user-contact {
-    width: 100%;
-    height: 50px;
-}
-
-.user-image {
-    width: 10%;
-    height: 100%;
-    background-color: blue;
-    border-radius: 50%;
-
-}
-
-.user-image img {
-    width: 100%;
-    height: 100%;
-    object-fit: fill;
-    border-radius: 50%;
-
 }
