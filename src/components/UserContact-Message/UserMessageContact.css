@@ -1,0 +1,17 @@
+.userContactMessage-container {
+    width: 15%;
+    height: 100%;
+    margin: 0 5x;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+    padding-left: 10px;
+}
+
+
+.userContactMessage-container p {
+    font-size: 16px;
+    margin-top: 0;
+}

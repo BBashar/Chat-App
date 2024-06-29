@@ -1,0 +1,8 @@
+.messageLayout-container {
+    height: 90vh;
+    width: 60%;
+    /* background-image: url('../../assets/images/official-whatsapp-background-image.png'); */
+    background-color: #F6F5F2;
+    border: 3px solid #F3D0D7;
+
+}
