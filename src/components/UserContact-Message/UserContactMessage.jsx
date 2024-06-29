@@ -6,6 +6,7 @@ function UserContactMessage() {
 
     return (
         <div className="userContactMessage-container">
+
             <div className="userName">
                 <h2>Bashar</h2>
             </div>

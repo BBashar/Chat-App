@@ -5,6 +5,7 @@
     display: flex;
     justify-content: flex-start;
     flex-direction: column;
+    border: 5px solid #2F3645;
 
 
 }
